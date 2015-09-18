@@ -16,7 +16,7 @@
         "braintree/braintree_php": "*"
     },
     "require-dev": {
-        "symfony/framework-bundle": ">=2.2,<=3.0",
+        "symfony/framework-bundle": ">=2.2,<3.0",
         "phpspec/phpspec": "dev-master"
     },
     "autoload": {
